@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cakobihito.vercel.app/sitemap.xml
